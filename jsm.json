@@ -14,8 +14,8 @@
             "style": {
                 "type": "rect",
                 "ratio": 1.33
-            }
-           // "ext": "./lib/tokenm.json$$$null$$$proxy"
+            },
+            "ext": "./lib/tokenm.json$$$null$$$proxy"
         },
         {
             "key": "Taohuazu",
@@ -27,7 +27,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-          //  "ext": "https://2960.kstore.space/lib/tokenm.json$$$null$$$127.0.0.1:10172$$$http://777631.xyz/$$$1"
+            "ext": "https://2960.kstore.space/lib/tokenm.json$$$null$$$127.0.0.1:10172$$$http://777631.xyz/$$$1"
         },
         {
             "key": "csp_JavDb",
@@ -42,8 +42,8 @@
             "style": {
                 "type": "rect",
                 "ratio": 1.33
-            }
-         //   "ext": "./lib/tokenm.json$$$null$$$proxy"
+            },
+            "ext": "./lib/tokenm.json$$$null$$$proxy"
         },
         {
             "key": "SeHuaTang",
