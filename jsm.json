@@ -14,7 +14,7 @@
             "style": {
                 "type": "rect",
                 "ratio": 1.33
-            },
+            }
            // "ext": "./lib/tokenm.json$$$null$$$proxy"
         },
         {
@@ -42,7 +42,7 @@
             "style": {
                 "type": "rect",
                 "ratio": 1.33
-            },
+            }
          //   "ext": "./lib/tokenm.json$$$null$$$proxy"
         },
         {
