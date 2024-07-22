@@ -14,7 +14,7 @@
             "style": {
                 "type": "rect",
                 "ratio": 1.33
-            },
+            }
         },
         {
             "key": "Taohuazu",
@@ -40,7 +40,7 @@
             "style": {
                 "type": "rect",
                 "ratio": 1.33
-            },
+            }
         },
         {
             "key": "SeHuaTang",
@@ -127,7 +127,7 @@
             "style": {
                 "type": "rect",
                 "ratio": 1.309
-            },
+            }
         },
         {
             "key": "18AV",
@@ -139,7 +139,7 @@
             "style": {
                 "type": "rect",
                 "ratio": 1.485
-            },
+            }
         },
         {
             "key": "Jable",
@@ -151,7 +151,7 @@
             "style": {
                 "type": "rect",
                 "ratio": 1.77
-            },
+            }
         },
         {
             "key": "MissAV",
@@ -163,7 +163,7 @@
             "style": {
                 "type": "rect",
                 "ratio": 1.777
-            },
+            }
         },
         {
             "key": "Hanime",
@@ -175,7 +175,7 @@
             "style": {
                 "type": "rect",
                 "ratio": 0.68
-            },
+            }
         },
         {
             "key": "Cable",
