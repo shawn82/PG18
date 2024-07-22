@@ -14,8 +14,7 @@
             "style": {
                 "type": "rect",
                 "ratio": 1.33
-            },
-            "ext": "./lib/tokenm.json$$$null$$$noproxy"
+            }
         },
         {
             "key": "Taohuazu",
@@ -162,7 +161,6 @@
                 "type": "rect",
                 "ratio": 1.77
             },
-            "ext": "noproxy"
         },
         {
             "key": "MissAV",
