@@ -15,7 +15,6 @@
                 "type": "rect",
                 "ratio": 1.33
             },
-            "ext": "./lib/tokenm.json$$$null$$$noproxy"
         },
         {
             "key": "Taohuazu",
@@ -27,7 +26,6 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "https://2960.kstore.space/lib/tokenm.json$$$null$$$127.0.0.1:10172$$$http://777631.xyz/$$$1"
         },
         {
             "key": "csp_JavDb",
@@ -43,7 +41,6 @@
                 "type": "rect",
                 "ratio": 1.33
             },
-            "ext": "./lib/tokenm.json$$$null$$$noproxy"
         },
         {
             "key": "SeHuaTang",
@@ -55,7 +52,6 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$null$$$noproxy",
             "style": {
                 "type": "list",
                 "ratio": 1.1
@@ -71,7 +67,6 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$http://hsck484.cc/$$$noproxy",
             "style": {
                 "type": "list",
                 "ratio": 1.1
@@ -87,7 +82,6 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "null$$$noproxy",
             "style": {
                 "type": "rect",
                 "ratio": 1.5
@@ -103,7 +97,6 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "$$$noproxy",
             "style": {
                 "type": "rect",
                 "ratio": 1.5
@@ -119,7 +112,6 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "https://netflav5.com$$$noproxy",
             "style": {
                 "type": "rect",
                 "ratio": 1.5
@@ -136,7 +128,6 @@
                 "type": "rect",
                 "ratio": 1.309
             },
-            "ext": "noproxy"
         },
         {
             "key": "18AV",
@@ -149,7 +140,6 @@
                 "type": "rect",
                 "ratio": 1.485
             },
-            "ext": "noproxy"
         },
         {
             "key": "Jable",
@@ -162,7 +152,6 @@
                 "type": "rect",
                 "ratio": 1.77
             },
-            "ext": "noproxy"
         },
         {
             "key": "MissAV",
@@ -175,7 +164,6 @@
                 "type": "rect",
                 "ratio": 1.777
             },
-            "ext": "noproxy"
         },
         {
             "key": "Hanime",
@@ -188,7 +176,6 @@
                 "type": "rect",
                 "ratio": 0.68
             },
-            "ext": "noproxy"
         },
         {
             "key": "Cable",
@@ -200,7 +187,6 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "noproxy",
             "style": {
                 "type": "rect",
                 "ratio": 1.5
